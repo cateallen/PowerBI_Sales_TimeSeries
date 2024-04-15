@@ -1,2 +1,1 @@
-# PowerBI Visualization - Airline Data
-
+# PowerBI Visualizations
