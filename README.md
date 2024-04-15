@@ -1,2 +1,2 @@
-# PowerBI_Sales_TimeSeries
+# PowerBI Visualization from a Store Sales dataset
 Store Sales Analysis and Time-series Forecasting
